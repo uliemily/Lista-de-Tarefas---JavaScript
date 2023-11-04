@@ -1,0 +1,95 @@
+body {
+    background-color: lightcyan;
+    width: auto;
+}
+
+.cabecalho {
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcoral;
+    
+    margin: 25px;
+    margin-bottom: 0;
+    padding: 50px;
+    padding-bottom: 0;
+}
+
+.container {
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcoral;
+    margin: 25px;
+    margin-top: 0;
+    padding: 50px;
+    padding-top: 0;
+
+
+}
+
+h1 {
+    margin-top: 5px;
+    color: lightcyan;
+    font-size: 40px;
+    text-align: center;
+}
+
+#lista {
+    background-color: lightcyan;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    padding: 5px;
+
+
+
+}
+
+.adicionar {
+    width: auto;
+    font-size: 20px;
+    padding: 5px;
+    display: flex;
+    box-sizing: border-box;
+    float: right;
+    border-radius: 2px;
+
+}
+
+
+
+button {
+    font-size: 20px;
+    padding: 4px;
+    float: right;
+    position: relative;
+    top: -35px;
+
+    
+}
+
+li {
+    font-size: 30px;
+    color: lightcyan;
+
+
+}
+
+.apagar {
+    font-size: 15px;
+    padding: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcyan;
+    border-radius: 2px;
+    margin: 25px;
+
+}
+
+.apagando {
+    width: auto;
+    height: 60px;
+    position: relative;
+    left: 25px;
+
+    
+
+}
